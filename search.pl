@@ -1,8 +1,8 @@
 #!/usr/local/bin/perl
 ##############################################################
 #				directory run script
-#										2004/11/4
-#									powered by Masashi Okada
+#						2004/11/4
+#						powered by Masashi Okada
 ##############################################################
 
 $path = "/Users/okada/Desktop/"; #CHANGE root directory
