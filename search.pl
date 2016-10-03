@@ -34,7 +34,6 @@ foreach $path (@path){
 	opendir(DIR,$path) or die "error";
 	chdir $path;
 	while ($entry = readdir DIR){
-		
 		if (-d $entry){
 			if (($entry eq ".") or ($entry eq "..")){next;}
 			else{}
