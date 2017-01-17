@@ -16,3 +16,6 @@ Please use this command :
 ```
 > perl search.pl
 ```
+
+### Acknowledgments
+This activity would not have been possible without the support of my family and friends. To my family, thank you for lots of encouragement for me and inspiring me to follow my dreams. I am especially grateful to my parents, who supported me all aspects.
